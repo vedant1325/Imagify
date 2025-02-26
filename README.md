@@ -25,9 +25,3 @@
 
 ---
 
-## 🚀 Setup & Installation  
-
-### **1️⃣ Clone the Repository**
-```sh
-git clone https://github.com/vedant1325/Imagify.git
-cd Imagify
